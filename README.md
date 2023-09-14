@@ -1,2 +1,2 @@
-# A
+# N
 AI power legal documentation assistant
